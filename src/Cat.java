@@ -8,7 +8,7 @@ public class Cat {
         weight = 3000;
         name = "Barsik";
         age = 1;
-        color = "Grey";
+        color = "Green";
     }
 
     public Cat(double weight1, String name1, int age1, String color1) {
